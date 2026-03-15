@@ -17,7 +17,7 @@ The objective of this project was to perform a structured static analysis in an 
 - md5sum
 - strings
 - UPX
-- Detect It Easy (diec)
+- Detect It Easy
 - Bulk Extractor
 
 ## Methodology
